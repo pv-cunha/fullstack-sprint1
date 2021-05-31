@@ -1,4 +1,4 @@
-# front-sprint1
+# fullstack-sprint1
 
 Este projeto está configurado com o _livereload_, desta forma, todas as alterações que forem feitas serão carregadas imediatamente no navegador sem necessidade de atualização manual da página (`F5`).
 
